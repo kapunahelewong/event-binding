@@ -1,12 +1,12 @@
 .group {
-  background-color: #ddd;
+  background-color: #dae8f9;
   padding: 1rem;
   margin: 1rem 0;
 }
 
 .parent-div {
-  background-color: #ddd;
-  border: solid 1px #444;
+  background-color: #bdd1f7;
+  border: solid 1px rgb(25, 118, 210);
   padding: 1rem;
 }
 
