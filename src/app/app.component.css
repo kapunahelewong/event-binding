@@ -1,0 +1,17 @@
+.group {
+  background-color: #ddd;
+  padding: 1rem;
+  margin: 1rem 0;
+}
+
+.parent-div {
+  background-color: #ddd;
+  border: solid 1px #444;
+  padding: 1rem;
+}
+
+.child-div {
+  margin-top: 1rem;
+  background-color: #fff;
+  padding: 1rem;
+}
