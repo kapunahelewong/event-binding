@@ -10,7 +10,7 @@ import { Item } from '../item';
 })
 export class ItemDetailComponent {
 
-  @Input() item: Object = {name: 'apple'};
+  @Input() item;
   itemImageUrl = 'assets/teapot.svg';
   lineThrough = '';
   displayNone = '';
